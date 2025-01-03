@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Chobhe</h1>
 <h3 align="center">A passionate Data Science Learner.</h3>
 
-- 🔭 I’m currently working on **Medicine Recommendation System.**
+- 🔭 I’m currently working on **Multi Disease Detection using Machine Learning.**
 
-- 🌱 I’m currently learning **Data Science , AI.**
+- 🌱 I’m currently learning **Software Development , Data Science , AI.**
 
 - 📫 How to reach me **rushi141414@gmail.com**
 
