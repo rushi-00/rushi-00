@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Chobhe</h1>
 <h3 align="center">A passionate Data Science Learner.</h3>
-
+ 
 - 🔭 I’m currently working on **Multi Disease Detection using Machine Learning.**
 
 - 🌱 I’m currently learning **Software Development , Data Science , AI.**
