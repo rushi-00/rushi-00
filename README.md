@@ -3,7 +3,7 @@
  
 - 🔭 I’m currently working on **Multi Disease Detection using Machine Learning.**
 
-- 🌱 I’m currently learning **Software Development , Data Science , AI.**
+- 🌱 I’m currently learning **Software Development , Data Science , JAVA.**
 
 - 📫 How to reach me **rushi141414@gmail.com** 
 
