@@ -3,9 +3,9 @@
  
 - 🔭 I’m currently working on **Multi Disease Detection using Machine Learning.**
 
-- 🌱 I’m currently learning **Software Development , Data Science , JAVA.**
+- 🌱 I’m currently learning **Software Development , Advance SQL , Data Science , Machine Learning , Deep Learning , Artificial Intelligence , JAVA**
 
-- 📫 How to reach me **rushi141414@gmail.com** 
+- 📫 How to reach me **rushikeshchobhe18@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
