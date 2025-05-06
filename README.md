@@ -4,7 +4,7 @@
 
 <h3 align="center">"Junior Data Scientist | Analytical Thinker Turning Data into Insights".</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-chothe&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-chothe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi-00&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-00" /> </p>
 
 <br>
 
@@ -45,9 +45,9 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-chothe&" alt="suraj-chothe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi-00&" alt="rushi-00" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-chothe" alt="suraj-chothe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushi-00" alt="rushi-00" /></a> </p>
 
 </p>
 <h3 align="left">
@@ -55,7 +55,7 @@
   ## Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/surajrchothe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-chothe-b71489233" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rushikesh-chobhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-chothe-b71489233" height="30" width="40" /></a>
 </p>
 
 <div align="center">
