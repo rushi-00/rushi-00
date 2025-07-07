@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Chobhe</h1>
-<h3 align="center">🌟 Enthusiastic Software Developer with a Passion for Data Science 🌟</h3>
+<h3 align="center">🌟 Enthusiastic Software Developer with a Passion for Data Science and Data Analytics 🌟</h3>
 <h3 align="center">"Analytical Thinker Turning Data into Insights".</h3>
 
 <p align="left"> 
@@ -14,11 +14,11 @@
 
 - 💼 Currently working as a **Data Analyst at ScatterPie Analytics**
 
-- 🌱 I’m continuously learning and exploring **Machine Learning and AI**
+- 🌱 I’m continuously learning and exploring **Data Analysis, Machine Learning and AI**
 
-- 🔍 Research Interests: **Web Technologies, Data Science, Machine Learning, and Artificial Intelligence**
+- 🔍 Research Interests: **Cloud, Data Science, Machine Learning, and Artificial Intelligence**
 
-- 💬 Ask me about **Python, SQL, NLP, Machine Learning, Web Development**
+- 💬 Ask me about **Python, SQL, Tableau, Power BI, NLP, Machine Learning, Web Development**
 
 - 📫 Reach me at: **rushikeshchobhe18@gmail.com**
 
